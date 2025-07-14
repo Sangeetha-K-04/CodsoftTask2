@@ -80,4 +80,55 @@ Here are some key insights:
 ---
 
 ## Sample output 
-![Titanic Ship](./titanic.jpg)
+![Titanic Ship](https://github.com/Sangeetha-K-04/CodsoftTask2/blob/main/titanic1.png?raw=true)
+
+
+![Titanic Ship](https://github.com/Sangeetha-K-04/CodsoftTask2/blob/main/titanic2.png?raw=true)
+
+
+![Titanic Ship](https://github.com/Sangeetha-K-04/CodsoftTask2/blob/main/titanic3.png?raw=true)
+
+
+![Titanic Ship](https://github.com/Sangeetha-K-04/CodsoftTask2/blob/main/titanic4.png?raw=true)
+
+
+![Titanic Ship](https://github.com/Sangeetha-K-04/CodsoftTask2/blob/main/titanic5.png?raw=true)
+
+
+![Titanic Ship](https://github.com/Sangeetha-K-04/CodsoftTask2/blob/main/titanic6.png?raw=true)
+
+
+![Titanic Ship](https://github.com/Sangeetha-K-04/CodsoftTask2/blob/main/titanic7.png?raw=true)
+
+
+---
+
+## 💻 How to Run the Project
+
+### 🔹 1. Clone the Repository
+
+```bash
+git clone https://github.com/Sangeetha-K-04/CodsoftTask2.git
+ 
+```
+---
+###🔹 2. Install the Required Libraries
+
+Make sure you have Python installed (preferably 3.7 or above). Then install the required libraries:
+
+```bash
+
+pip install pandas numpy matplotlib seaborn scikit-learn
+```
+---
+###🔹 3. Run the Jupyter Notebook
+
+Start Jupyter Notebook and open the project file:
+
+```bash
+ 
+TitanicSurvival.ipynb
+```
+
+
+
