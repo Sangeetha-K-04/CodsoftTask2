@@ -1,11 +1,10 @@
-# 🚢 Titanic Survival Prediction - Machine Learning Project
+# 🚢 Titanic Survival Prediction - Data Science Project
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Titanic_1909_03.jpg/640px-Titanic_1909_03.jpg" alt="RMS Titanic" width="600">
+  <img src="https://github.com/Sangeetha-K-04/CodsoftTask2/blob/main/RMS_Titanic_3.jpg?raw=true" alt="RMS Titanic" width="400">
   <br>
   <i><b>RMS Titanic</b> — A legendary ship, now your launchpad into machine learning.</i>
 </p>
-
 
 
 ## 🌟 Project Overview
@@ -38,3 +37,47 @@ Using Python, Pandas, Seaborn, and Scikit-Learn, this notebook delves into the *
 📦 TitanicSurvivalPrediction
  ┣ 📜 TitanicSurvival.ipynb   ← Jupyter Notebook with full implementation
  ┗ 📄 README.md                ← You’re reading it!
+```
+
+---
+
+## 📁 Dataset Used
+
+We used the [Titanic dataset from Kaggle](https://www.kaggle.com/competitions/titanic) which includes:
+
+- PassengerId, Name, Sex, Age
+- Ticket, Fare, Cabin, Embarked
+- Pclass (Passenger Class), SibSp, Parch
+- Survived (Target Variable)
+
+---
+ ## 🧪 Technologies & Tools
+
+| Tool/Library     | Usage                        |
+|------------------|------------------------------|
+| Python 🐍        | Core programming language     |
+| Pandas 🧾         | Data manipulation             |
+| NumPy ➗          | Numerical operations          |
+| Matplotlib & Seaborn 📊 | Data visualization     |
+| Scikit-learn 🤖   | Machine Learning models       |
+| Jupyter Notebook 📓 | Interactive coding environment |
+
+---
+
+## 📊 Exploratory Data Analysis
+
+Here are some key insights:
+
+- **Women** and **children** had a higher survival rate.
+- **First-class passengers** were more likely to survive.
+- Passengers boarding from port **'C' (Cherbourg)** had a better chance of survival.
+
+🧠 Feature engineering was done on:
+- Title extraction from names
+- Family size creation from SibSp & Parch
+- Handling missing Age, Embarked, and Fare values smartly
+
+---
+
+## Sample output 
+![Titanic Ship](./titanic.jpg)
