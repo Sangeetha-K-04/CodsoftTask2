@@ -105,14 +105,14 @@ Here are some key insights:
 
 ## 💻 How to Run the Project
 
-### 🔹 1. Clone the Repository
+🔹 **1. Clone the Repository**
 
 ```bash
 git clone https://github.com/Sangeetha-K-04/CodsoftTask2.git
  
 ```
 ---
-###🔹 2. Install the Required Libraries
+🔹 **2. Install the Required Libraries**
 
 Make sure you have Python installed (preferably 3.7 or above). Then install the required libraries:
 
@@ -121,7 +121,7 @@ Make sure you have Python installed (preferably 3.7 or above). Then install the 
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 ---
-###🔹 3. Run the Jupyter Notebook
+🔹 **3. Run the Jupyter Notebook**
 
 Start Jupyter Notebook and open the project file:
 
